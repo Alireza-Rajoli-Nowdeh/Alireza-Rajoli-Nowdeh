@@ -47,8 +47,7 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" title="Ethereum" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/22290223?s=200&v=4" alt="Truffle" title="Truffle Framework" width="40" height="40"/>
-  <!-- Ganache (official icon from Ganache repo) -->
-  <img src="https://images.app.goo.gl/mTdzoZXrSsfpNgai6" alt="Ganache" title="Ganache" width="40" height="40"/>
+
 
 </p>
 
