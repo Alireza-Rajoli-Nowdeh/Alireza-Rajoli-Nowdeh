@@ -17,11 +17,10 @@
 <!-- Skills Summary -->
 <h3 align="left"><font size="+2" face="Verdana">🧠 Research & Skills:</font></h3>
 
-- 🔬 Researcher in Device-Free Human Activity Recognition using wireless sensing
-- 💡 Developed Blockchain DApps with Solidity, Truffle, and Ganache
-- 🧠 Experience in Machine Learning, Deep Learning, and Reinforcement Learning
-- 💬 Experience in NLP: LLM fine-tuning, BERT/GPT
-- ⚙️ Deployment & Production-level ML systems
+- Researcher in Device-Free Human Activity Recognition using wireless sensing
+- Experience in Machine Learning, Deep Learning, and Reinforcement Learning
+- Experience in NLP: LLM fine-tuning, BERT/GPT
+- Deployment & Production-level ML systems
 
 <!-- Programming Language Stack -->
 <h4>💻 Programming Language Stack</h4>
