@@ -1,8 +1,7 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Alireza Rajoli Nowdeh</font></h1>
 <h3 align="center"><font face="Arial">
-<a href="https://www.linkedin.com/in/alireza-rajoli-nowdeh" target="_blank" rel="noreferrer"><strong>Alireza</strong></a> is a Computer Science master's student at Lakehead University, exploring AI, NLP, smart sensing, and blockchain. His research blends wireless signals and machine learning to understand human activity. Passionate about LLMs, HAR, and building impactful tech from AI to Web3.
-</font></h3>
+<a href="https://www.linkedin.com/in/alireza-rajoli-nowdeh" target="_blank" rel="noreferrer"><strong>Alireza</strong></a> 
 
 <!-- Let's Connect -->
 <h3 align="left"><font size="+2" face="Verdana">Let's Connect:</font></h3>
