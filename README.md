@@ -35,7 +35,7 @@
 
 <br clear="right"/>
 
-<!-- ======================= TECH STACK ======================= -->
+<!-- ======================= TECH STACK (shields.io = very reliable) ======================= -->
 ## 🛠️ Tech Stack
 
 **💻 Languages**
@@ -70,38 +70,26 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<!-- ======================= GITHUB STATS (unified theme) ======================= -->
+<!-- ======================= GITHUB STATS (self-hosted = reliable) ======================= -->
+<!-- NOTE: 'count_private=true' only works if your PAT_1 token has the 'repo' scope. -->
+<!-- If the main card errors, remove '&count_private=true'. -->
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alireza-Rajoli-Nowdeh&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-Rajoli-Nowdeh&theme=tokyonight&layout=compact&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-ten-pi-21.vercel.app/api?username=Alireza-Rajoli-Nowdeh&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-ten-pi-21.vercel.app/api/top-langs/?username=Alireza-Rajoli-Nowdeh&theme=tokyonight&layout=compact&hide_border=true" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Alireza-Rajoli-Nowdeh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
-<!-- ======================= ANIMATED ACTIVITY GRAPH ======================= -->
-## 📈 Contribution Graph
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alireza-Rajoli-Nowdeh&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
 <!-- ======================= CONTRIBUTION SNAKE ======================= -->
-<!-- This one is ANIMATED and needs the GitHub Action below (see README notes). -->
+<!-- ANIMATED. Broken until you run the "Generate Snake" GitHub Action once. -->
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Alireza-Rajoli-Nowdeh/Alireza-Rajoli-Nowdeh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<!-- ======================= TROPHIES ======================= -->
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alireza-Rajoli-Nowdeh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </div>
 
 <!-- ======================= FOOTER WAVE ======================= -->
